@@ -18,3 +18,5 @@ Christopher Coppernoll
 Ben Morrison
 
 Marco Versellie
+
+David Tascarella
