@@ -31,8 +31,7 @@ Andrew Lathrop
 
 Sevin Dennis
 
-<<<<<<< HEAD
 Chetan Kumar Chaurasiya
-=======
+
 Zack Duford
 >>>>>>> origin/master
