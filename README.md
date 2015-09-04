@@ -28,3 +28,5 @@ Ronald Liu
 Joshua Rule
 
 Andrew Lathrop
+
+Sevin Dennis
