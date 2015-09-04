@@ -34,4 +34,5 @@ Sevin Dennis
 Chetan Kumar Chaurasiya
 
 Zack Duford
->>>>>>> origin/master
+
+Evan Hauck
