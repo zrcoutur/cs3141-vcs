@@ -24,3 +24,5 @@ David Tascarella
 Mark Schlax
 
 Ronald Liu
+
+Joshua Rule
