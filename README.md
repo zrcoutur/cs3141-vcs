@@ -30,3 +30,5 @@ Joshua Rule
 Andrew Lathrop
 
 Sevin Dennis
+
+Zack Duford
